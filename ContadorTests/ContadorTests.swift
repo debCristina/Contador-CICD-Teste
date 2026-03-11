@@ -10,7 +10,7 @@ import Testing
 
 struct ContadorTests {
     
-    @Test("Teste de incremento ")
+    @Test("Teste de incremento")
     func incrementAddsOne() {
         let vm = ContadorViewModel()
         
